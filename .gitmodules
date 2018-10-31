@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "dusky-neon-potato"]
+	path = dusky-neon-potato
+	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
+[submodule "themes/dusky-neon-potato"]
+	path = themes/dusky-neon-potato
+	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
